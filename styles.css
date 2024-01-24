@@ -20,7 +20,8 @@ grid-gap:10px;
 .latest-news-section{
 	background-color:white;
 	padding:10px;
-	width:145px;
+	width:1px;
+text-align:right;
 }
 
 		.mainarticle{
@@ -33,7 +34,7 @@ grid-gap:10px;
  .pictorial-news-section{
 	  background-color:white;
 	 padding:10px;
-	 width:145px;
+	 width:100px;
 	 text-align:right;
 	  border-radius:5px;
  }
