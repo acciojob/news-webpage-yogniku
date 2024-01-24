@@ -39,9 +39,9 @@ justify-content:right;
 	  background-color:white;
 	 padding:300px;
 	 width:300px;
-	 display-flex:start-right;
-	 
-	 justify-content:flex-start;
+	  border-radius:5px
+	   text-align: start;
+	
 	  border-radius:5px;
  }
 h3{
